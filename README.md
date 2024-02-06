@@ -45,6 +45,15 @@ Aplikasi ini dapat di gunakan para driver dan client yang mencari ojek.
 
 ## Gambar Rancangan Antar Muka
 
+- output penumpang
+  ![alt text](https://github.com/AnasKhalif/Ojek-Plus/blob/main/image/penumpang.jpeg)
+
+- output driver
+  ![alt text](https://github.com/AnasKhalif/Ojek-Plus/blob/main/image/driver.jpeg)
+
+- ui figma
+  ![alt text](https://github.com/AnasKhalif/Ojek-Plus/blob/main/image/figma.jpeg)
+
 <!--
 Buat rancangan antar muka selengkap mungkin sesuai fungsi aplikasinya. rancangan antar muka
 diusahakan serapih dan seindah mungkin. tools yang digunakan dalam pembuatan rancangan gambar
